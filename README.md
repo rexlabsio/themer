@@ -13,9 +13,9 @@
 11. Make sure the selected theme's library is accessible in the file that you want to use the plugin in
 12. Elements that you select should now change to the new theme automatically
 
-![Themer promo image](img/themer-banner-v2.0-github.png?raw=true 'Themer promo')
-
 # Themer
+
+![Themer promo image](img/themer-banner-v2.0-github.png?raw=true 'Themer promo')
 
 Themer enables you to create and swap themes from your _published_ styles in your team library. Use it for color, text and effect styles.
 

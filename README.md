@@ -1,7 +1,7 @@
 # Instructions for Rex
 
 1. Open terminal (cmd + space - type `terminal` and open)
-2. Clone this repo wherever you want (`git clone git@github.com:rexlabsio/themer.git`)
+2. Clone this repo wherever you want (`git clone https://github.com/rexlabsio/themer.git`)
 3. Open figma and go to the `Plugins` pane
 4. Click on the `+` button next to `Development`
 5. Click where it says `Click to choose a manifest.json file`

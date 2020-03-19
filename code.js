@@ -121,8 +121,6 @@ figma.showUI(__html__, { width: 240, height: 312 });
     });
 }); })();
 figma.on('selectionchange', function () {
-    selectedTheme = 'Rando';
-    console.log(figma.currentPage.selection);
     applyTheme('selection');
 });
 //MESSAGING TO PLUGIN UI
